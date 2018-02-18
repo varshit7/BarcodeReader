@@ -1,0 +1,7 @@
+#Sun Feb 18 16:08:51 IST 2018
+base.0=/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3444dc2ac1bffd28104dde64b81a89970429a941
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f64847da1de850976a244ba6a57e560aa10df0ce/classes.dex
+base.1=/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f64847da1de850976a244ba6a57e560aa10df0ce
+file.0=/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3444dc2ac1bffd28104dde64b81a89970429a941/classes.dex

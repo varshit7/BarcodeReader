@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/varshitratna/.android/build-cache/45d97427ce1cf6ae11b5972bc375d6ce9a1c065f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/F:\\Projects\\Android_Projects\\BarcodeReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "/Users/varshitratna/Downloads/BarcodeReader/C:\\Users\\P Sai Manikanth\\.android\\build-cache\\ae9f199ace11a09229f1d0694865346b6ef5cd0f\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/F:\\Projects\\Android_Projects\\BarcodeReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/Users/varshitratna/Downloads/BarcodeReader/C:\\Users\\P Sai Manikanth\\.android\\build-cache\\ae9f199ace11a09229f1d0694865346b6ef5cd0f\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/F:\\Projects\\Android_Projects\\BarcodeReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/Users/varshitratna/Downloads/BarcodeReader/C:\\Users\\P Sai Manikanth\\.android\\build-cache\\ae9f199ace11a09229f1d0694865346b6ef5cd0f\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/varshitratna/.android/build-cache/45d97427ce1cf6ae11b5972bc375d6ce9a1c065f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/varshitratna/.android/build-cache/45d97427ce1cf6ae11b5972bc375d6ce9a1c065f/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/F:\\Projects\\Android_Projects\\BarcodeReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/Users/varshitratna/Downloads/BarcodeReader/C:\\Users\\P Sai Manikanth\\.android\\build-cache\\ae9f199ace11a09229f1d0694865346b6ef5cd0f\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/varshitratna/.android/build-cache/45d97427ce1cf6ae11b5972bc375d6ce9a1c065f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

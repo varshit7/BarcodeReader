@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/F:\\Projects\\Android_Projects\\BarcodeReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/Users/varshitratna/Downloads/BarcodeReader/C:\\Users\\P Sai Manikanth\\.android\\build-cache\\ae9f199ace11a09229f1d0694865346b6ef5cd0f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/varshitratna/.android/build-cache/45d97427ce1cf6ae11b5972bc375d6ce9a1c065f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/F:\\Projects\\Android_Projects\\BarcodeReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/Users/varshitratna/Downloads/BarcodeReader/C:\\Users\\P Sai Manikanth\\.android\\build-cache\\ae9f199ace11a09229f1d0694865346b6ef5cd0f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/varshitratna/.android/build-cache/45d97427ce1cf6ae11b5972bc375d6ce9a1c065f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/F:\\Projects\\Android_Projects\\BarcodeReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/Users/varshitratna/Downloads/BarcodeReader/C:\\Users\\P Sai Manikanth\\.android\\build-cache\\ae9f199ace11a09229f1d0694865346b6ef5cd0f\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/varshitratna/.android/build-cache/45d97427ce1cf6ae11b5972bc375d6ce9a1c065f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/F:\\Projects\\Android_Projects\\BarcodeReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/Users/varshitratna/Downloads/BarcodeReader/C:\\Users\\P Sai Manikanth\\.android\\build-cache\\ae9f199ace11a09229f1d0694865346b6ef5cd0f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/varshitratna/.android/build-cache/45d97427ce1cf6ae11b5972bc375d6ce9a1c065f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

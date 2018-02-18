@@ -1,0 +1,4 @@
+#Sun Feb 18 16:08:51 IST 2018
+base.0=/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/varshitratna/Downloads/BarcodeReader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex
